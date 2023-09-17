@@ -1,0 +1,65 @@
+body{
+    font-size: 15px !important
+}
+.underline{
+    border-bottom: 1px solid rgb(221, 208, 208);
+   
+}
+.sale{
+    text-decoration: line-through;
+    margin-left: 5px;
+}
+.ml-2{
+    margin-left: 2px;
+}
+.ml-10{
+    margin-left: 10px;
+}
+.ml-50{
+    margin-left: 50px;
+}
+.ml-120{
+    margin-left: 120px;
+}
+.ml-200{
+    margin-left: 200px;
+}
+.mt-20{
+    margin-top: 20px;
+}
+.mt-30{
+    margin-top: 30px;
+}
+.mt-50{
+    margin-top: 50px;
+}
+.mt-80{
+    margin-top: 80px;
+}
+.size-btn{
+    width: 25px;
+    border: none;
+    background-color: inherit;
+}
+.size-btn1{
+    width: 35px;
+    background-color: inherit;
+    margin-left: 20px;
+}
+.size{
+    width: 450px;
+    height: 250px;
+}
+.sizesimillarbtn{
+    width: 200px;
+    height: 35px;
+    font-size: 18px !important;
+    border-radius: 0 !important;
+}
+.border-l{
+    border-left: 2px solid rgb(224, 223, 223);
+}
+.addtocard{
+    width: 100px;
+    height: 30px;
+}

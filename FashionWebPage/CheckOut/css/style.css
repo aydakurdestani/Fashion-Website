@@ -1,0 +1,137 @@
+.nav-bar{   
+    font-size: 15px !important;
+}
+.size-title{
+    font-size: 35px;
+}
+.mt-10{
+    margin-top: 10px;
+}
+.ml-50{
+    margin-left: 50px;
+}
+.border-b{
+    border-bottom: 1px dotted gray;
+   
+}
+.mb-10{
+    margin-bottom: 20px;
+}
+.size-side{
+    width: 650px;
+}
+.size-side2{
+    width: 700px;
+}
+.size-box{
+    width: 150px;
+}
+.input-size{
+    width: 250px;
+    height: 40px;
+    background-color: rgb(220, 220, 220);
+    border: none;
+}
+.inputCountry-size{
+    width: 500px;
+    height: 40px;
+    background-color: rgb(220, 220, 220);
+    border: none;
+}
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f1f1f1;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+.dropdown-content a {
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    cursor: pointer;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+.mr-200{
+    margin-right: 350px;
+}
+.ml-150{
+    margin-left: 150px;
+}
+input[type="checkbox"] {
+    display: none;
+}
+
+/* Define the circular checkbox */
+.circular-checkbox {
+    width: 20px;
+    height: 20px;
+    background-color: #fff;
+    border: 2px solid #000;
+    border-radius: 50%; /* Makes it circular */
+    display: inline-block;
+    position: relative;
+    vertical-align: middle;
+}
+
+/* Style the checked state */
+input[type="checkbox"]:checked + .circular-checkbox::after {
+    content: "";
+    width: 10px;
+    height: 10px;
+    background-color: #000;
+    border-radius: 50%; /* Creates the inner circle */
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.size-h3{
+    font-size: 20px;
+}
+.ml-50{
+    margin-left: 50px;
+}
+.sale{
+    text-decoration: line-through;
+}
+.b-n{
+    border: none;
+}
+.ml-20{
+    margin-left: 20px;
+}
+.mt-2 {
+    margin-top: 2px;
+}
+.ml-2{
+    margin-left: 2px;
+}
+.ml-5{
+    margin-left: 5px;
+}
+.mt-5{
+    margin-top: 5px;
+}
+.b-n{
+    border: none;
+}
+.ml-138{
+    margin-left: 138px;
+}
+.ml-120{
+    margin-left: 120px;
+}
+.mr-10{
+    margin-right: 10px;
+}
